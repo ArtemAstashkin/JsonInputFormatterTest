@@ -1,0 +1,14 @@
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/bin/Debug/netcoreapp2.1/Web.deps.json
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/bin/Debug/netcoreapp2.1/Web.runtimeconfig.json
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/bin/Debug/netcoreapp2.1/Web.runtimeconfig.dev.json
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/bin/Debug/netcoreapp2.1/Web.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/bin/Debug/netcoreapp2.1/Web.pdb
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.csprojAssemblyReference.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.csproj.CoreCompileInputs.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.RazorAssemblyInfo.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.RazorAssemblyInfo.cs
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.AssemblyInfoInputs.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.AssemblyInfo.cs
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.RazorTargetAssemblyInfo.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web/obj/Debug/netcoreapp2.1/Web.pdb

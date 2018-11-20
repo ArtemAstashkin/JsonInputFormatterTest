@@ -1,0 +1,17 @@
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.Tests.deps.json
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.Tests.runtimeconfig.json
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.Tests.runtimeconfig.dev.json
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.Tests.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.Tests.pdb
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/bin/Debug/netcoreapp2.1/Web.pdb
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.csprojAssemblyReference.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.csproj.CoreCompileInputs.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.AssemblyInfoInputs.cache
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.AssemblyInfo.cs
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.csproj.CopyComplete
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.dll
+/Users/artemastashkin/Documents/Work/Test/JsonInputFormatterTest/Web.Tests/obj/Debug/netcoreapp2.1/Web.Tests.pdb
